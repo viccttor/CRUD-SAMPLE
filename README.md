@@ -1,7 +1,6 @@
-#  CRUD-SAMPLE 
+# 🎓 CRUD-SAMPLE 🎓 
 
-#### ✒️Autor - [Victor Henrique](https://github.com/viccttor) | [Linkedin](https://www.linkedin.com/in/viccttor/)
- 🚀🚀🚀
+Um CRUD simples - back-end/front-end.
 
 ##  🛠️ Tecnologias e Ferramentas
 
@@ -17,13 +16,13 @@
 * Eclipse IDEA
 * Postman
 
-## Funcionalidades
+## 🔎Funcionalidades
 
 * Cadastro de Usuário
 * Listar Todos Usuários
 * Buscar Usuário por nome
 * Alterar Cadastro de Usuário
 * Deletar Usuário
-
-
+#
+#### ✒️Autor - [Victor Henrique](https://github.com/viccttor) | [Linkedin](https://www.linkedin.com/in/viccttor/)
 
