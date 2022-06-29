@@ -14,7 +14,6 @@ Um CRUD simples - back-end/front-end.
 * CSS
 * Bootstrap
 * JQuery
-* Ajax
 * Eclipse IDEA
 * Postman
 
