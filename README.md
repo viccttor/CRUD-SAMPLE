@@ -9,6 +9,7 @@ Um CRUD simples - back-end/front-end.
 * Java 11
 * Spring Boot
 * JPA Hibernate
+* Query Native
 * PostgreSQL
 * HTML
 * CSS
